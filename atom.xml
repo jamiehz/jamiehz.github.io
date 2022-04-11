@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-04-11T03:46:36.879Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Web Design For Everyone</title>
+    <link href="http://example.com/2022/04/10/Web%20Design%20For%20Everyone/"/>
+    <id>http://example.com/2022/04/10/Web%20Design%20For%20Everyone/</id>
+    <published>2022-04-10T13:39:42.000Z</published>
+    <updated>2022-04-11T03:46:36.879Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Web-Design-For-Everyone"><a href="#Web-Design-For-Everyone" class="headerlink" title="Web Design For Everyone"></a>Web Design For Everyone</h2><p><a class="link" href="https://www.coursera.org/specializations/web-design">Web Design For Everyone<i class="fas fa-external-link-alt"></i></a> 是一门关于网页设计的优秀课程，其内容涵盖HTML5，CSS3，Javascript，响应式设计等网页设计中需要用到的知识。Dr.Colleen 授课深入浅出，homework 设计较为合理，代码量适中，是一门零基础入门课程。</p><p>学完这门课程后，令我印象深刻的不是课程上所学到的知识，而是Colleen对于设计的思考。在某节课上，她展示了一些数据，比如美国有多少色盲色弱，有多少帕金森综合征患者等，因此前端开发人员在设计之初应该考虑到哪些可能存在的问题，怎样设计才能真正做到 web design for everyone。</p><h2 id="关于技术的思考"><a href="#关于技术的思考" class="headerlink" title="关于技术的思考"></a>关于技术的思考</h2><p>这个切入点对我来说十分新颖，尽管我学过不少国内外公开课，其中一些课程也会提出关于技术和人的思考，但这门课程第一次让我受到冲击。我想，技术终究应该是要服务于(所有)人的，然而事实却不是这样。国外有 Cambridge Analytica 这种利用数据操纵选票的公司，国内有利用数据杀熟的公司，更不用提通过数据分析对人进行监控等行为。人们仿佛在作恶的道路上越走越远，看来 Don’t be evil 并非易事。</p><h2 id="关于课程"><a href="#关于课程" class="headerlink" title="关于课程"></a>关于课程</h2><p>上文已经提到过，这门课程内容涵盖HTML5，CSS3，Javascript，响应式设计等网页设计中需要用到的知识，此外还给出了许多有用的资源网站，包括<a class="link" href="https://www.w3schools.com/html/default.asp">HTML教程<i class="fas fa-external-link-alt"></i></a>，<a class="link" href="https://learn.shayhowe.com/html-css/">CSS教程<i class="fas fa-external-link-alt"></i></a>，<a class="link" href="https://validator.w3.org/?sub1=20220322-2141-1715-a4fe-6333619e1c1f">检查代码<i class="fas fa-external-link-alt"></i></a>，<a class="link" href="https://fontawesome.com/">字体<i class="fas fa-external-link-alt"></i></a>等。在学完这门课程后，这些网站对准备做前端开发的人来说很有价值。课程 homework 和课程内容结合得很好，就是代码量比较小，不过平时的代码练习还是足够的，算是弥补了 homework 的工作了。大作业结合了前面所学的所有知识，代码量适中，可以看出 Colleen 对这门课程做了非常深入的工作。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>如果想做网页设计，那么这门课程是值得花时间学习的一门课程。它不需要任何基础，对非CS专业的人来说也很友好，只要课上认真听讲，课后独立完成 homework，相信一定会有所收获。当然，CS相关专业要学习则会容易许多。为了方便学习，<a class="link" href="https://github.com/jamiehz/MOOC/tree/main/CS%20Course/WD4E">相关代码<i class="fas fa-external-link-alt"></i></a>已经发布到Github上，如有需要可以自取。由于在做大作业时时间比较紧迫，没有太多时间做内容，因此比较简陋，希望你有时间的话可以做得更好。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Web-Design-For-Everyone&quot;&gt;&lt;a href=&quot;#Web-Design-For-Everyone&quot; class=&quot;headerlink&quot; title=&quot;Web Design For Everyone&quot;&gt;&lt;/a&gt;Web Design For Ev</summary>
+      
+    
+    
+    
+    <category term="Web Design" scheme="http://example.com/categories/Web-Design/"/>
+    
+    
+    <category term="Web Design" scheme="http://example.com/tags/Web-Design/"/>
+    
+    <category term="HTML5" scheme="http://example.com/tags/HTML5/"/>
+    
+    <category term="CSS3" scheme="http://example.com/tags/CSS3/"/>
+    
+    <category term="JS" scheme="http://example.com/tags/JS/"/>
+    
+    <category term="Responsive Design" scheme="http://example.com/tags/Responsive-Design/"/>
+    
+  </entry>
+  
+</feed>
